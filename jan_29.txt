@@ -1,0 +1,82 @@
+                                                     Question-1
+
+Guido Van Rossum developed Python Programming language
+                                  
+                                                     Question-2
+
+1.Object Oriented Programming
+2.Structured Programming
+3.Functional Programming
+4.Aspect-Oriented Programming
+
+                                                    Question-3
+
+Yes python is case sensitive while deling with identifiers.
+
+                                                    Question-4
+
+Python file has an extenstion of ".py".Example of pythn file:file_1.py
+
+                                                    Question-5
+
+Pyhton code is interpreted.
+
+                                                    Question-6
+
+Python has blocks:Module,Function Body,Class Definition
+
+                                                    Question-7
+
+"ctrl+/" is used to give single-line comments in python.
+
+                                                    Question-8
+
+1.python --version
+2.Python-V
+3.Using sys. version method
+            
+                                                    Question-9
+
+The construct is called "lambda"
+
+                                                    Question-10
+
+Pip stands for "Preferred Installer Program"
+
+                                                    Question-11
+
+Some built in functions are:
+    1.print()
+    2.range()
+    3.input()
+    4.sum()
+    5.str()
+
+
+                                                    Question-12
+                                                
+Pyhton can have a max length of 79 characters for identifiers.
+
+                                                    Question-13
+
+Some benefits are:
+    1.Data Analysis
+    2.Web development
+    3.Robotics
+    4.Automation
+
+                                                    Question-14
+
+Memory management in python involves a private heap containing all python objects and data structures.
+
+                                                    Question-15
+
+1.Download python and install it by setting up the .exe file
+2.Right-clicking This PC and going to Properties.
+3.Clicking on the Advanced system settings in the menu on the left.
+4.Clicking on the Environment Variables button o​n the bottom right.
+5.In the System variables section, selecting the Path variable and clicking on Edit.
+
+                                                    Question-16
+
+Yes indentation is very important in python.
